@@ -4,6 +4,9 @@ plugins {
     id 'maven-publish'
 }
 
+group='com.github.federicoIPP;'
+
+
 android {
     compileSdk 30
 
