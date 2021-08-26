@@ -2,4 +2,4 @@ jdk:
   - openjdk11
 
 install:
-  - ./gradlew build :ToastLibrary:publishToMavenLocal
+  - ./gradlew build publishToMavenLocal
